@@ -1,5 +1,5 @@
 # ML_from_Scratch
-Trying to implement basic ml algorithms from scratch in python. I have also made videos explaining these algorithms...
+Implementation of basic machine learning algorithms from scratch in python.
 
 ## Gradient Descent
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/36zkIAAUcZ4/mqdefault.jpg)](https://youtu.be/36zkIAAUcZ4)
